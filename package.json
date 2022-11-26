@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.15.4",
-    "formidable": "^1.1.1",
+    "formidable": "^1.2.2",
     "formidable-stream": "^0.1.1",
     "mysql": "^2.14.1",
     "node-stringify": "^0.2.1",
